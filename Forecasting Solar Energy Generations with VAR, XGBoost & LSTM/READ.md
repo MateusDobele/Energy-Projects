@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the code and data for my master's thesis: **"A Comparative Analysis and Ensemble Approach of VAR, XGBoost, and LSTM for Forecasting Renewable Energy Generation."** The goal of this research is to compare the performance of three forecasting models (VAR, XGBoost, and LSTM) and an ensemble model integrating these methods to predict renewable energy generation accurately.
+This repository contains the code and data for my master's thesis: **"A Comparative Analysis and Ensemble Approach of VAR, XGBoost, and LSTM for Forecasting Renewable Energy Generation."** This project aims to compare the performance of three forecasting models (VAR, XGBoost, and LSTM) and an ensemble model integrating VAR, XGBoost and LSTM to predict renewable (solar) energy generation accurately. 
 
 ## Table of Contents
 
