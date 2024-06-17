@@ -1,4 +1,4 @@
-# Forecasting Renewable Energy Generation: A Comparative Analysis and Ensemble Approach
+# Forecasting Solar Energy Generation: A Comparative Analysis and Ensemble Approach
 
 ## Overview
 
